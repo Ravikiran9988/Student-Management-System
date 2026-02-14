@@ -2,7 +2,7 @@
 
 A simple, menu-driven console application to manage student records using Python.
 
-CRUD operations + automatic grading + JSON persistence — perfect for learning Python data structures and file handling.
+CRUD operations + automatic grading + JSON persistence perfect for learning Python data structures and file handling.
 
 ## ✨ Features
 
