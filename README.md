@@ -24,6 +24,13 @@ CRUD operations + automatic grading + JSON persistence — perfect for learning 
 
 ## 🚀 Quick Start
 
+## 📖 Detailed Blog Explanation
+
+Read the full step-by-step article on how this Student Management System works —  
+from data structures to JSON persistence and automatic grading:
+
+👉 https://medium.com/@ravi_kiran_77/building-a-mini-student-management-system-in-python-b2b0e058eb76
+
 ### Prerequisites
 
 - Python 3.8 or higher
